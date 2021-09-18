@@ -1,5 +1,7 @@
 # Many people have asked me how to set my terminal for better productivity using iterm and zsh
 
+<img src="/images/s3.png">
+
 <img src="/images/s2.png">
 
 <img src="/images/s1.png">
