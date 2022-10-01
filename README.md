@@ -1,8 +1,8 @@
-# Many people have asked me how to set my terminal for better productivity using iterm and zsh
+# Many people have asked me regarding how to set up my terminal for better productivity using iterm and zsh
 
 Follow the configure-terminal.sh file with commands for installing those with the powerlevel9k theme and advanced code completion, search history, syntax highlighting, etc.
 
-### Instruction:
+### Instructions:
 
 1.  Once everything is done with the commands close the terminal and open the iterm, for the first time you need to allow from system preferences to run it.
 
@@ -13,11 +13,13 @@ Follow the configure-terminal.sh file with commands for installing those with th
 4.  For the font to take the effect close and reopen the iterm and it works!
 
 
+----
+
+<img src="/images/s1.png">
+
 
 <img src="/images/s3.png">
 
 <img src="/images/s2.png">
 
-<img src="/images/s1.png">
-
-
+---
